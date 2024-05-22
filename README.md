@@ -14,7 +14,7 @@ Aplikasi ini adalah sebuah aplikasi sederhana yang memanipulasi gambar menggunak
 
 2. Masuk ke direktori proyek.
    ```shell
-   cd Citra
+   cd web app
    ```
 
 3. Instal semua dependensi yang diperlukan.
@@ -24,7 +24,7 @@ Aplikasi ini adalah sebuah aplikasi sederhana yang memanipulasi gambar menggunak
 
 4. Jalankan aplikasi Streamlit.
    ```shell
-   streamlit run app.py
+   streamlit run app1.py
    ```
 
 5. Aplikasi akan berjalan dan akan terbuka di browser Anda. Di sidebar, Anda dapat memilih salah satu dari tiga tugas pengolahan citra:
